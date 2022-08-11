@@ -14,3 +14,6 @@ Rock beats Scissors
 Scissors beat Paper
 
 Paper beats Rock
+
+## Note on future updates: 
+Will probably add a Human vs Human and Multiplayer mode in future. Stay tuned!
